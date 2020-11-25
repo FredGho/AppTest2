@@ -2,6 +2,6 @@ language: node_js
 node_js: 
   - "node"
 script:
-  - npm run test
+  - npm run test:unit
 after_success:
   - .travis/push.sh
