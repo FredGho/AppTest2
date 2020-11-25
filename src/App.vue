@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="FGO TestApp2 CleverCloud"/>
+    <HelloWorld msg="FGO TestApp2 CleverCloud zz"/>
   </div>
 </template>
 
