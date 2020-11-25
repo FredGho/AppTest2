@@ -1,1 +1,1 @@
-https://$CLEVER_TOKEN:$CLEVER_SECRET@push.clever-cloud.com/app_apptest2.gitgit --verbose --force push cleverapps master
+https://$CLEVER_TOKEN:$CLEVER_SECRET@push.clever-cloud.com/app_apptest2.git --verbose --force push apptest2 master
